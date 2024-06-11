@@ -17,8 +17,8 @@ body {
   color: #95c11e;
 }
 
-body::-webkit-scrollbar{
-    display: none;
+body::-webkit-scrollbar {
+  display: none;
 }
 
 .cursor {
